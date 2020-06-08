@@ -1,5 +1,7 @@
 # Covid-19-Detection
-Covid-19 detection using X-ray images of chests
+Covid-19 detection using X-ray images of chests using convolutional neural networks.
+
+The model used is VGG16
 
 The accuracy of the model : **98.42%**
 
